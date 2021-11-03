@@ -1,0 +1,14 @@
+# игнорируем каталог tmp
+tmp/
+
+# игнор _Old
+index.html_old
+
+# игнор файлов c расширением .db
+*.db
+
+# игнор все с _store
+.DS_Store
+
+# игнор  _backup
+NeuroStartUp.png_backup
